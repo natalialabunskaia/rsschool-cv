@@ -65,8 +65,27 @@ Supports JSON and YAML file formats_
 
 _A responsive RSS feed aggregator built with modern JavaScript_
 
-* [React Pokédex](https://github.com/natalialabunskaia/rs-react-app)
+* [React Pokedex](https://github.com/natalialabunskaia/rs-react-app)
 
 
 _An application built with React, TypeScript, and Vite that allows users to search, browse, and save Pokémon_
 
+## Professional experience
+
+* IT Career Hub GmbH
+
+Sales Manager | Career Consultant
+
+2023 – 2026 | remote
+
+_Presented technical training programs and career
+development plans_
+
+* Service Guru
+
+Sales Manager | Software Solutions
+
+2022 – 2023 | remote
+
+_Presented software solutions for the hospitality
+(HoReCa) industry to prospective customers_
